@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/PromptMixerDev/prompt-mixer-gemini-connector#readme",
   "dependencies": {
-    "@google/generative-ai": "^0.21.0"
+    "@google/generative-ai": "^0.24.0"
   },
   "devDependencies": {
     "esbuild": "^0.25.0",
