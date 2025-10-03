@@ -1,6 +1,6 @@
 {
   "name": "prompt-mixer-gemini-connector",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "Gemini API Connector",
   "main": "main.js",
   "type": "module",
