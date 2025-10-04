@@ -1,20 +1,14 @@
 export const config = {
   connectorName: "Gemini",
   models: [
-    "gemini-1.0-pro",
-    "gemini-1.5-pro", 
-    "gemini-1.5-flash", 
-    "gemini-1.5-pro-exp-0801", 
-    "gemini-2.0-flash", 
-    "gemini-2.0-flash-lite-preview-02-05", 
-    "gemini-1.5-flash-8b",
-    "gemini-2.0-pro-exp-02-05",
-    "gemini-2.0-flash-thinking-exp-01-21",
-    "gemini-2.0-flash-exp",
-    "gemini-2.5-flash",
     "gemini-2.5-pro",
-    "gemini-exp-1206",
-    "learnlm-1.5-pro-experimental"
+    "gemini-2.5-flash",
+    "gemini-2.5-flash-lite",
+    "gemini-flash-latest",
+    "gemini-flash-lite-latest",
+    "gemini-2.0-pro",
+    "gemini-2.0-flash",
+    "gemini-2.0-flash-lite-001"
   ],
   properties: [
     {
