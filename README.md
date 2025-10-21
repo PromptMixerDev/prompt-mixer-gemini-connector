@@ -9,6 +9,10 @@ This connector allows you to access Gemini's AI API from within Prompt Mixer.
 - Configure timeouts, max tokens, temperature etc.
 - View usage statistics for your Gemini account
 
+## Requirements
+
+- Node.js 20 or later
+
 ## Getting Started
 
 1. Sign up for an API key at [Gemini](https://makersuite.google.com/app/apikey)

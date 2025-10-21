@@ -1,7 +1,7 @@
 {
 	"id": "prompt-mixer-gemini-connector",
 	"name": "Gemini API Connector",
-	"version": "1.0.5",
+	"version": "1.2",
 	"minAppVersion": "0.1.0",
 	"description": "Gemini API Connector",
 	"author": "Prompt Mixer",

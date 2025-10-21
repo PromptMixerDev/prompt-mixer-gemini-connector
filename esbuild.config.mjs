@@ -7,7 +7,7 @@ const context = await esbuild.context({
 	entryPoints: ['main.ts'],
 	bundle: true,
 	platform: 'node',
-	target: 'es2022',
+	target: 'node20',
 	outfile: './build/main.js',
 });
 
